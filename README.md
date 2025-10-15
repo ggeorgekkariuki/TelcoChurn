@@ -26,11 +26,6 @@ Customer churn is a critical business metric. High churn rates signal dissatisfa
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](images/dashboard_preview.png) <!-- Add this if you include screenshots -->
-
----
 
 ## 🚀 Versioning
 
