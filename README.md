@@ -2,6 +2,7 @@
 
 This project explores customer churn behavior in the telecom industry using Python, Streamlit, and data from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). It’s designed to help executives understand churn drivers and identify actionable interventions.
 
+View the running dashboard here on (Streamlit)[https://shptxtpecpgtergqqvkfpe.streamlit.app]
 ---
 
 ## 🔍 Why Churn Matters
